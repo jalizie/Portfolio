@@ -1,0 +1,81 @@
+.link {
+    font-size: 30px;
+    color: white;
+}
+
+a:visited {
+    color: white;
+  }
+
+a:hover {
+    text-decoration: none !important;
+    text-decoration-style: none;
+    text-decoration-color: blue;
+}
+
+body, head {
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;  
+}
+
+.jumbo1 {
+    background: url("./images/jum1.png");
+    height: 100%;
+    color: white;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    height: 700px !important;
+}
+
+.jumbo2 {
+    background: url("./images/jum2.png"); 
+    
+}
+.jumbotron {
+    margin-bottom: 0px!important;
+    }
+
+
+.profile {
+    border-radius: 50%;
+    width: 40%;
+    float: center;
+}
+.about {
+    width: 90%;
+    font-size: 20px;
+}
+
+.card {
+   align-items: center;
+}
+
+.submit {
+    background: #444444;
+    margin: 5%;
+    padding-inline-start: 10%;
+    padding-inline-end: 10%;
+    color: white;
+    border-radius: 9px;
+    border: none;
+}
+
+footer {
+    background-color: #333333;
+    color: white;
+    justify-items: center;
+    align-items: center;
+    margin: auto; 
+    padding: 10px;
+    text-align: center;
+}
+
+.skills {
+    width: 20%;
+    margin-left: 10%;
+    float: left;  
+}
+
+.skillset {
+    margin: 5%;
+}
+
+
